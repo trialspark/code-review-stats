@@ -1,0 +1,8242 @@
+[
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-11-09T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-11-09T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-11-09T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-11-09T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-11-09T14:00:00-08:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-11-09T14:00:00-08:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-11-09T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-11-09T14:00:00-08:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-11-09T14:00:00-08:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-11-09T14:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-11-09T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-11-09T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-11-09T14:00:00-08:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-11-09T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-11-09T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-09T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-09T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-09T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-09T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-11-09T18:00:00-08:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-11-09T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-09T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-09T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-09T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-09T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-11-12T14:00:00-08:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-11-12T14:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-12T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-12T14:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-12T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-12T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-11-12T14:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-12T14:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-12T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-11-16T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-11-12T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-11-12T14:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-11-12T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-11-12T14:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-11-12T14:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-11-12T14:00:00-08:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-11-12T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-12T14:00:00-08:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-11-12T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-12T14:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-11-12T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-12T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-12T18:00:00-08:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-11-12T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-12T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-12T18:00:00-08:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-11-12T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-12T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-12T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-11-13T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-13T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-13T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "on_time",
+    "time_due": "2018-11-13T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-11-13T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-11-13T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-11-13T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-13T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-13T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-13T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-13T14:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-11-13T18:00:00-08:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-11-13T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-13T18:00:00-08:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-11-13T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-13T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-11-19T14:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-11-14T18:00:00-08:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-11-14T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-11-14T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-19T14:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-19T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-11-14T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-11-19T14:00:00-08:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "no_response",
+    "time_due": "2018-11-19T14:00:00-08:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "no_response",
+    "time_due": "2018-11-19T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-15T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-15T14:00:00-08:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-11-15T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-11-15T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-11-15T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-11-15T18:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-15T18:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-15T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-11-16T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-11-16T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-11-16T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-11-16T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-11-16T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-11-16T18:00:00-08:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-11-16T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-11-16T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-19T14:00:00-08:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "no_response",
+    "time_due": "2018-11-19T14:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-19T14:00:00-08:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "no_response",
+    "time_due": "2018-11-19T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-11-19T14:00:00-08:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-11-19T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-19T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-19T18:00:00-08:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-11-19T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-19T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-19T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-11-19T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-11-19T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-19T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-19T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-19T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-19T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-11-19T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "on_time",
+    "time_due": "2018-11-19T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-19T18:00:00-08:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-11-20T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-19T18:00:00-08:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-11-20T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-19T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-11-19T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-11-20T18:00:00-08:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-11-20T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-11-20T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-11-21T14:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-11-21T14:00:00-08:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-11-21T14:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-21T14:00:00-08:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-11-21T14:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-21T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-11-21T18:00:00-08:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-11-21T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-21T18:00:00-08:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-11-21T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-21T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-11-21T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-21T18:00:00-08:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-11-21T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-21T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-21T18:00:00-08:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-11-21T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-21T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-11-21T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-21T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-21T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-21T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-21T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-11-21T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-11-21T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-21T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-21T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-11-22T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-11-22T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-11-22T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-11-22T14:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "on_time",
+    "time_due": "2018-11-27T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-27T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-27T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-11-27T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-11-28T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-11-28T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-11-28T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-11-28T18:00:00-08:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-11-28T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-28T18:00:00-08:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-11-28T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-28T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-11-28T18:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-28T18:00:00-08:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-11-28T18:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-28T18:00:00-08:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-11-28T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-11-29T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-29T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-29T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-11-29T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-29T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-29T14:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-11-29T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-29T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-29T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "on_time",
+    "time_due": "2018-11-29T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-29T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-29T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-11-29T18:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-29T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-29T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-29T18:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-29T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-29T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-29T18:00:00-08:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-10-29T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-10-29T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-10-29T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-10-29T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-10-29T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-10-29T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-10-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-10-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-10-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-10-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-10-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-10-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-10-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-10-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-10-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-10-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-10-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-10-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-10-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-10-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-10-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "PranavSenthilnathan",
+    "status": "no_response",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "PranavSenthilnathan",
+    "status": "no_response",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-10-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-10-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-10-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-10-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-10-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-10-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-10-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "PranavSenthilnathan",
+    "status": "late",
+    "time_due": "2018-10-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "PranavSenthilnathan",
+    "status": "late",
+    "time_due": "2018-10-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-10-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-10-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "on_time",
+    "time_due": "2018-10-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-10-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-10-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-10-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-10-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-10-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-10-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-10-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-11-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-11-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-11-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-11-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-11-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-11-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-11-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-11-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-11-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-11-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-11-08T18:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-11-08T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-11-01T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-11-01T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-11-01T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-11-01T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-11-01T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "on_time",
+    "time_due": "2018-11-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-11-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-11-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-11-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-11-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-11-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-11-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-11-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-11-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-11-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-11-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-11-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-11-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-11-06T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-11-05T18:00:00-08:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-11-05T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-05T18:00:00-08:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-11-05T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-05T18:00:00-08:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-11-05T18:00:00-08:00"
+  },
+  {
+    "reviewer": "PranavSenthilnathan",
+    "status": "no_response",
+    "time_due": "2018-11-05T18:00:00-08:00"
+  },
+  {
+    "reviewer": "PranavSenthilnathan",
+    "status": "no_response",
+    "time_due": "2018-11-05T18:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-11-05T18:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-11-05T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-11-05T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-11-05T18:00:00-08:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-11-05T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-05T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-05T18:00:00-08:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-11-05T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-05T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-05T18:00:00-08:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "on_time",
+    "time_due": "2018-11-05T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-05T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-05T18:00:00-08:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-11-06T14:00:00-08:00"
+  },
+  {
+    "reviewer": "PranavSenthilnathan",
+    "status": "late",
+    "time_due": "2018-11-06T14:00:00-08:00"
+  },
+  {
+    "reviewer": "PranavSenthilnathan",
+    "status": "late",
+    "time_due": "2018-11-06T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-11-07T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-11-06T18:00:00-08:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-11-06T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-06T18:00:00-08:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-11-06T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-06T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-11-06T18:00:00-08:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-11-06T18:00:00-08:00"
+  },
+  {
+    "reviewer": "PranavSenthilnathan",
+    "status": "late",
+    "time_due": "2018-11-06T18:00:00-08:00"
+  },
+  {
+    "reviewer": "PranavSenthilnathan",
+    "status": "late",
+    "time_due": "2018-11-06T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-11-06T18:00:00-08:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-11-06T18:00:00-08:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-11-06T18:00:00-08:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-11-07T14:00:00-08:00"
+  },
+  {
+    "reviewer": "mjbvz",
+    "status": "on_time",
+    "time_due": "2018-11-07T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-07T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-07T14:00:00-08:00"
+  },
+  {
+    "reviewer": "minestarks",
+    "status": "no_response",
+    "time_due": "2018-11-07T14:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-07T14:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-07T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-07T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-07T14:00:00-08:00"
+  },
+  {
+    "reviewer": "minestarks",
+    "status": "no_response",
+    "time_due": "2018-11-07T14:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-07T14:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-07T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-11-07T14:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-07T14:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-07T14:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-11-07T14:00:00-08:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-11-07T18:00:00-08:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-11-07T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-07T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-11-07T18:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-08T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-11-08T14:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-08T14:00:00-08:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-11-08T14:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-08T18:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-08T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-08T18:00:00-08:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-11-08T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-11-08T18:00:00-08:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-11-08T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-08T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-08T18:00:00-08:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-11-08T18:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-08T18:00:00-08:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-11-08T18:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-11-09T14:00:00-08:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "on_time",
+    "time_due": "2018-11-09T14:00:00-08:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-11-09T14:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-09T14:00:00-08:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-11-09T14:00:00-08:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-11-09T14:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-10-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-10-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-10-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-10-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-10-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-10-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-10-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-10-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "on_time",
+    "time_due": "2018-10-22T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-10-18T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-10-19T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-10-19T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-19T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-11-07T14:00:00-08:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-19T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-19T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-19T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-10-22T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-10-22T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-22T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-22T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-22T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-10-22T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-10-22T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-10-22T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-21T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-10-21T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-10-21T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-10-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-10-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-10-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-10-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-10-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-10-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-10-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-10-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-10-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "uniqueiniquity",
+    "status": "late",
+    "time_due": "2018-10-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-10-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-10-24T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-10-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-10-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-10-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-10-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-10-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-10-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-10-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-10-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-10-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-10-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-10-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-10-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-10-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-10-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-10-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-10-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-10-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-10-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mjbvz",
+    "status": "on_time",
+    "time_due": "2018-10-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-10-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-10-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-29T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-29T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-29T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-10-29T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-10-29T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-10-29T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-10-29T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-10-29T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-10-29T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-04T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-04T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-04T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-04T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-04T18:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-10-04T18:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-10-04T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-10-05T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-10-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-10-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-10-05T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-10-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-08T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-10-08T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-10-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-10-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "no_response",
+    "time_due": "2018-10-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-10-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "on_time",
+    "time_due": "2018-10-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-10-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-10-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-10-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mjbvz",
+    "status": "on_time",
+    "time_due": "2018-10-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-10-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-10-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-08T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-10-08T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-10-08T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-08T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-10-08T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-08T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-10-08T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-08T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-10-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-10-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-10-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-08T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-08T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-08T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-08T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-08T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-10-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-10-08T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-10-08T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-10-08T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-10-08T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-08T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-08T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-08T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-08T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-10-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-10-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-10-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-10-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-10-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-10-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-10-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-10-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-10-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-11-09T18:00:00-08:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-10-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-10-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-10-10T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-10-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-10-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-10T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-10T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-10-10T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-10-10T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-10T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-10-10T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-10-10T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-10T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-10T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-10-10T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-10T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-10T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-10T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-10-10T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "no_response",
+    "time_due": "2018-10-10T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "no_response",
+    "time_due": "2018-10-10T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-10-10T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-10-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-10-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-10-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-10-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-12T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-10-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-10-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-10-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-10-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-10-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-10-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-10-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-12T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-12T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-12T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-12T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-10-12T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-12T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-10-12T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-12T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-10-12T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-10-18T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-10-15T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-10-15T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-10-16T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-10-13T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-10-13T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-10-13T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-15T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-15T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-15T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-15T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-15T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-15T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-10-15T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-15T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-10-15T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-15T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-10-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-10-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-09-24T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-09-21T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-21T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-21T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-09-21T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-21T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-21T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-24T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-24T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-24T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-24T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-09-24T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-09-24T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-09-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-09-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-09-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-09-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-09-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-09-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-09-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-09-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-09-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-09-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-09-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-09-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-09-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-09-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-09-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-09-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-09-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-09-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-09-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-09-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-09-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-09-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-09-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mjbvz",
+    "status": "late",
+    "time_due": "2018-09-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-09-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-09-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-09-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-09-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "on_time",
+    "time_due": "2018-09-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-09-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-09-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-09-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-09-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-09-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-09-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-09-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-09-28T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-28T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-10-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-10-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-09-28T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-09-28T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-09-28T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-09-28T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-28T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-28T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-09-28T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-28T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-28T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-10-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-10-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-10-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-10-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-10-01T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-10-01T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-01T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-01T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-01T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-01T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-10-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-10-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-10-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-10-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-10-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "uniqueiniquity",
+    "status": "late",
+    "time_due": "2018-10-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "uniqueiniquity",
+    "status": "late",
+    "time_due": "2018-10-02T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-10-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-10-03T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-03T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-10-03T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "on_time",
+    "time_due": "2018-10-03T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-09-12T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-09-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-09-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-09-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "on_time",
+    "time_due": "2018-09-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-09-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-09-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-09-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "on_time",
+    "time_due": "2018-09-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-09-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-09-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-09-11T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-09-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-09-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-09-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-09-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-09-11T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-09-12T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-09-12T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-12T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-09-12T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-09-12T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-12T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-09-12T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-12T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-12T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-09-12T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-12T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-09-12T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-09-12T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-09-12T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-12T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-09-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-09-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "uniqueiniquity",
+    "status": "late",
+    "time_due": "2018-09-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "uniqueiniquity",
+    "status": "late",
+    "time_due": "2018-09-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-13T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-13T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-09-13T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-13T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-09-13T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-09-14T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-09-14T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-09-14T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-09-14T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-09-14T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-14T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-14T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-14T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-14T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-14T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-14T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-14T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-09-14T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-09-14T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-14T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-14T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-09-14T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "on_time",
+    "time_due": "2018-09-17T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "on_time",
+    "time_due": "2018-09-17T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-09-17T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-09-17T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-09-17T14:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "on_time",
+    "time_due": "2018-09-17T14:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "on_time",
+    "time_due": "2018-09-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-09-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-09-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-09-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-09-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-09-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-09-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mjbvz",
+    "status": "on_time",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-09-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "on_time",
+    "time_due": "2018-09-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-09-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-09-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "uniqueiniquity",
+    "status": "no_response",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "uniqueiniquity",
+    "status": "no_response",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mjbvz",
+    "status": "on_time",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-10-03T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-09-18T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-18T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-18T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-09-18T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "on_time",
+    "time_due": "2018-09-18T18:00:00-07:00"
+  },
+  {
+    "reviewer": "uniqueiniquity",
+    "status": "on_time",
+    "time_due": "2018-09-18T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-09-19T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-18T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-09-18T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-09-18T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-09-19T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-09-19T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-09-19T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-09-19T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-19T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-19T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-19T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-19T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-19T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-19T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-09-19T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-19T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-09-19T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-09-19T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-19T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-19T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-19T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "on_time",
+    "time_due": "2018-09-19T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-19T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-20T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-09-20T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-20T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-20T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-09-20T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-20T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-09-20T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "on_time",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "on_time",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-08-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-08-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-08-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-08-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-08-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-08-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-08-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "on_time",
+    "time_due": "2018-08-29T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-10-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-28T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-28T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-08-28T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "on_time",
+    "time_due": "2018-08-28T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-28T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-28T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-29T14:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-08-29T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-29T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-29T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-08-29T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "no_response",
+    "time_due": "2018-08-29T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "no_response",
+    "time_due": "2018-08-29T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-29T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-08-29T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-29T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-08-29T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-29T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-29T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-08-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-08-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "on_time",
+    "time_due": "2018-08-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-08-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-08-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "no_response",
+    "time_due": "2018-08-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-08-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-08-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-08-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-08-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-08-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-08-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-08-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "on_time",
+    "time_due": "2018-08-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-08-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-08-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-09-05T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-08-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-09-05T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-09-05T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "on_time",
+    "time_due": "2018-09-05T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-09-03T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-03T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-03T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-09-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-09-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-03T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-03T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-09-03T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-03T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-09-03T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-05T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-05T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-09-05T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-05T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-09-05T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-09-05T14:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-09-05T14:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-09-05T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-05T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-09-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-09-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-09-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-09-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-06T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-09-06T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-06T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-06T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-09-06T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-06T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-06T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-09-06T14:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-09-06T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-06T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-06T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-09-06T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "on_time",
+    "time_due": "2018-09-06T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-06T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-06T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-09-07T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-09-07T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-09-07T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-09-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-07T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-09-07T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-09-07T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-09-10T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-09-10T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-10T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-09-10T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-09-10T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-10T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-09-10T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-09-10T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-08-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-08-10T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-10T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-10T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-10T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-10T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-10T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-10T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-10T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-10T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-08-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-08-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-08-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-08-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "on_time",
+    "time_due": "2018-08-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "billti",
+    "status": "no_response",
+    "time_due": "2018-08-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "billti",
+    "status": "no_response",
+    "time_due": "2018-08-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-08-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-08-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-08-21T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-08-21T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-13T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-08-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-08-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-13T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-13T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-13T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-13T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-13T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-15T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-15T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-15T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-08-14T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-08-14T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-08-14T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-14T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-14T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-14T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-09-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-09-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-09-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-09-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-08-15T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-15T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-15T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-08-14T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-14T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-14T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-08-15T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-08-15T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-15T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-15T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-08-15T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-15T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-15T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-08-15T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-15T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-15T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-08-16T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-16T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-16T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-16T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-08-16T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-08-16T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-08-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-17T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-17T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-08-17T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-08-17T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-17T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-08-17T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-17T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-08-17T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-17T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-08-17T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-17T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-08-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-08-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-08-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-08-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-08-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-08-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-08-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-20T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-08-20T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-20T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-20T14:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "no_response",
+    "time_due": "2018-08-20T14:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "no_response",
+    "time_due": "2018-08-20T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-20T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-08-20T18:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-08-20T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-08-20T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-20T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-08-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-08-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-21T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-08-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-09-04T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-09-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-08-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-09-04T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-09-05T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-08-21T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-21T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-08-21T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-08-21T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-21T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-08-21T18:00:00-07:00"
+  },
+  {
+    "reviewer": "minestarks",
+    "status": "late",
+    "time_due": "2018-08-21T18:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-08-22T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-08-21T18:00:00-07:00"
+  },
+  {
+    "reviewer": "minestarks",
+    "status": "late",
+    "time_due": "2018-08-21T18:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-08-22T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-09-06T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-08-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-08-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-08-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-08-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "on_time",
+    "time_due": "2018-08-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-22T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-08-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-08-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "no_response",
+    "time_due": "2018-08-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "no_response",
+    "time_due": "2018-08-22T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-08-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "billti",
+    "status": "no_response",
+    "time_due": "2018-08-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "minestarks",
+    "status": "no_response",
+    "time_due": "2018-08-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "billti",
+    "status": "no_response",
+    "time_due": "2018-08-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "minestarks",
+    "status": "no_response",
+    "time_due": "2018-08-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-08-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-08-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-08-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-08-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-08-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-08-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-08-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-08-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-24T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-08-24T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-08-24T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-24T14:00:00-07:00"
+  },
+  {
+    "reviewer": "uniqueiniquity",
+    "status": "late",
+    "time_due": "2018-08-24T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-24T14:00:00-07:00"
+  },
+  {
+    "reviewer": "uniqueiniquity",
+    "status": "late",
+    "time_due": "2018-08-24T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-08-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-08-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-08-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-08-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-08-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-08-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "uniqueiniquity",
+    "status": "on_time",
+    "time_due": "2018-08-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-08-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "on_time",
+    "time_due": "2018-07-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "on_time",
+    "time_due": "2018-07-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-07-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-07-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-07-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-07-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "on_time",
+    "time_due": "2018-07-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-07-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-07-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-07-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-07-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-07-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-27T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-07-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "on_time",
+    "time_due": "2018-07-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-07-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-07-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-07-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-07-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-07-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-07-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-07-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "on_time",
+    "time_due": "2018-07-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-07-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-07-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "uniqueiniquity",
+    "status": "no_response",
+    "time_due": "2018-07-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-07-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-07-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "uniqueiniquity",
+    "status": "no_response",
+    "time_due": "2018-07-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-07-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-07-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-07-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-07-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-07-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "on_time",
+    "time_due": "2018-07-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-07-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-07-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-07-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-07-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-07-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-07-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-07-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-07-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-07-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-07-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-07-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-07-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-07-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-07-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "on_time",
+    "time_due": "2018-07-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "on_time",
+    "time_due": "2018-08-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-08-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "no_response",
+    "time_due": "2018-08-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-08-01T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-01T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-08-01T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-08-01T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-01T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-09-14T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-08-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-08-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-08-02T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-08-03T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-08-03T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-08-03T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-08-03T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-03T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-08-03T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-08-03T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-08-03T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "no_response",
+    "time_due": "2018-08-06T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-08-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-13T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-08-06T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-06T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-06T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-06T18:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-08-07T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-08-31T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-07T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "on_time",
+    "time_due": "2018-08-07T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-08-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-07T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-08-07T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-08-07T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-08-07T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "no_response",
+    "time_due": "2018-08-07T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "no_response",
+    "time_due": "2018-08-07T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-07T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-08-08T14:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-08-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-08-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-08T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-08T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-08-08T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-08-08T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-08-10T18:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-08-10T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-08-08T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-08-08T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-08-08T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-08-08T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-08-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-08-09T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-09-05T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-09-05T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-05T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-09-05T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-09-05T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-09-05T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-09-06T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-08-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-08-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-08-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-08-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-08-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-08-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-08-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-08-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-09T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-07-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "minestarks",
+    "status": "on_time",
+    "time_due": "2018-07-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-16T18:00:00-07:00"
+  },
+  {
+    "reviewer": "uniqueiniquity",
+    "status": "late",
+    "time_due": "2018-07-17T14:00:00-07:00"
+  },
+  {
+    "reviewer": "uniqueiniquity",
+    "status": "late",
+    "time_due": "2018-07-17T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-07-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-07-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-07-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-07-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-07-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-07-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-07-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "no_response",
+    "time_due": "2018-07-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "no_response",
+    "time_due": "2018-07-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-07-20T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-20T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-20T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-07-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-07-17T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "on_time",
+    "time_due": "2018-07-18T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-07-18T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-07-18T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-07-18T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-18T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-07-18T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-07-18T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-07-18T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-07-19T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "on_time",
+    "time_due": "2018-07-19T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-20T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-08-28T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-07-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-07-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-07-20T14:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "on_time",
+    "time_due": "2018-07-20T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "on_time",
+    "time_due": "2018-07-20T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-07-20T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "on_time",
+    "time_due": "2018-07-20T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-20T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-07-20T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-07-20T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-07-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-07-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-07-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-07-20T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-20T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-20T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-07-30T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-07-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-07-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "late",
+    "time_due": "2018-07-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-07-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-07-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-27T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-07-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-07-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "amcasey",
+    "status": "late",
+    "time_due": "2018-07-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "on_time",
+    "time_due": "2018-07-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-07-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-07-23T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-07-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-07-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-07-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-23T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-07-24T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-07-24T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "late",
+    "time_due": "2018-08-15T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-07-31T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-07-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-07-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-07-24T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "on_time",
+    "time_due": "2018-07-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-07-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-07-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "RyanCavanaugh",
+    "status": "no_response",
+    "time_due": "2018-07-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-07-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "on_time",
+    "time_due": "2018-07-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "on_time",
+    "time_due": "2018-07-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "on_time",
+    "time_due": "2018-07-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-07-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-07-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "uniqueiniquity",
+    "status": "on_time",
+    "time_due": "2018-07-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "on_time",
+    "time_due": "2018-07-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-25T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-07-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "no_response",
+    "time_due": "2018-07-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "no_response",
+    "time_due": "2018-07-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "on_time",
+    "time_due": "2018-07-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-07-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "no_response",
+    "time_due": "2018-07-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "andy-ms",
+    "status": "on_time",
+    "time_due": "2018-07-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "ahejlsberg",
+    "status": "late",
+    "time_due": "2018-07-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-07-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "no_response",
+    "time_due": "2018-07-25T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-07-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-07-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "uniqueiniquity",
+    "status": "late",
+    "time_due": "2018-07-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "late",
+    "time_due": "2018-07-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "uniqueiniquity",
+    "status": "late",
+    "time_due": "2018-07-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-07-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-07-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "no_response",
+    "time_due": "2018-07-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "sheetalkamat",
+    "status": "on_time",
+    "time_due": "2018-07-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-07-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "DanielRosenwasser",
+    "status": "late",
+    "time_due": "2018-07-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-26T14:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-07-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-07-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "late",
+    "time_due": "2018-07-30T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "late",
+    "time_due": "2018-07-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "late",
+    "time_due": "2018-07-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "weswigham",
+    "status": "late",
+    "time_due": "2018-07-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "on_time",
+    "time_due": "2018-07-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-07-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "rbuckton",
+    "status": "no_response",
+    "time_due": "2018-07-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "sandersn",
+    "status": "on_time",
+    "time_due": "2018-07-26T18:00:00-07:00"
+  },
+  {
+    "reviewer": "mhegazy",
+    "status": "on_time",
+    "time_due": "2018-07-26T18:00:00-07:00"
+  }
+]

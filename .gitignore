@@ -1,0 +1,11 @@
+# Only allow force adding to these directories
+data/
+output/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Others
+.vscode/
