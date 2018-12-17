@@ -1,4 +1,4 @@
-Calculates the ratio of reviews by a user that are 'on-time' in a given GitHub repository.
+Calculates the ratio of reviews by a user that are 'on-time' in a given GitHub repository. See [this blog post](https://medium.com/trialspark/analyzing-code-review-response-times-at-trialspark-67af447f97e3) for the story behind this repo!
 
 ## Setup:
 0. Prereqs: Python 3.6+
