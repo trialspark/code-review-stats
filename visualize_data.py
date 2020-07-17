@@ -66,7 +66,7 @@ data_frame = pd.DataFrame({
 
 # create the chart of our results
 ch = chartify.Chart(blank_labels=True, x_axis_type='categorical')
-ch.set_title('On-time review rate (last 1000 PRs)')
+ch.set_title('On-time review rate')
 
 ch.plot.bar(
     data_frame=data_frame,
